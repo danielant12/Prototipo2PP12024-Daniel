@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1681925369 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\Danielant12\segundo examen parcial serie iii\segundo examen parcial\src\catalogos.cpp
+	"Catalogos.h"
+
+1681924731 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\Danielant12\segundo examen parcial serie iii\segundo examen parcial\include\catalogos.h
+	<iostream>
+	<fstream>
+	<string>
+
+1681923571 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\DanielAnt12\segundo examen parcial serie iii\segundo examen parcial serie iii caso practico\src\usuarios.cpp
+	"Usuarios.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1681921211 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\Danielant12\segundo examen parcial serie iii\segundo examen parcial serie iii caso practico\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1681926765 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\Danielant12\segundo examen parcial serie iii\segundo examen parcial serie iii caso practico\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Usuarios.h"
+	"Catalogos.h"
+	"Informes.h"
+
+1681926536 c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\Danielant12\segundo examen parcial serie iii\segundo examen parcial serie iii caso practico\include\informes.h
+	<iostream>
+	<fstream>
+	<string>
+
+1681926773 source:c:\users\kevin\desktop\umg 2022\umg semestre 3\programación i\clase 15feb\repositorio\Danielant12\segundo examen parcial serie iii\segundo examen parcial serie iii caso practico\src\informes.cpp
+	"Informes.h"
+
+1713371654 source:c:\users\gisistemas\desktop\segundo examen parcial\segundo examen parcial\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Usuarios.h"
+	"Catalogos.h"
+	"Informes.h"
+
+1713305641 c:\users\gisistemas\desktop\segundo examen parcial\segundo examen parcial\include\usuarios.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713370581 c:\users\gisistemas\desktop\segundo examen parcial\segundo examen parcial\include\catalogos.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713305641 c:\users\gisistemas\desktop\segundo examen parcial\segundo examen parcial\include\informes.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713372074 source:c:\users\gisistemas\desktop\segundo examen parcial\segundo examen parcial\src\informes.cpp
+	"Informes.h"
+
+1713370052 source:c:\users\gisistemas\desktop\segundo examen parcial\segundo examen parcial\src\usuarios.cpp
+	"Usuarios.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713372260 source:c:\users\gisistemas\desktop\segundo examen parcial\segundo examen parcial\src\catalogos.cpp
+	"Catalogos.h"
+
